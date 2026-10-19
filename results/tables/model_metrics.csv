@@ -1,0 +1,4 @@
+dataset,n,Accuracy,Macro-F1
+Random Forest - Train,4256,0.912,0.872
+Random Forest - Test,1064,0.734,0.567
+Baseline (always Medium) - Test,1064,0.766,0.289
